@@ -1,7 +1,7 @@
 {
     "name": "arturkami/array2ics",
     "description": "library to convert array of events to google calendar .ics file/string",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "arturkami/array2ics": "dev-master"
+    }
 }
