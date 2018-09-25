@@ -1,0 +1,14 @@
+{
+    "name": "arturkami/array2ics",
+    "description": "library to convert array of events to google calendar .ics file/string",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artur Kaminski",
+            "email": "artur.kaminski83@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
